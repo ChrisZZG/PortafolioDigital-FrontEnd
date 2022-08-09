@@ -2,3 +2,24 @@ body{
     font-family: 'Nunito', sans-serif;
 }
 
+#acerca_de {
+    background: url(../img/fond12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center, center center;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+#text_card {
+
+    margin:auto;
+    font-size: 200%;
+}
+
+#banner {
+    background-size: auto;
+}
+
+
+
