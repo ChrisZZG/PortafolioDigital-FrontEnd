@@ -1,5 +1,6 @@
 body{
     font-family: 'Nunito', sans-serif;
+    background-color: black;
 }
 
 #acerca_de {
@@ -11,15 +12,26 @@ body{
     margin-right: 10px;
 }
 
+/* .section {
+    background: url(../img/backbody.jpg);
+    background-repeat: repeat-y;
+    background-size:auto;
+    background-position: center;
+   
+} */
+
 #text_card {
 
     margin:auto;
     font-size: 200%;
 }
 
-#banner {
-    background-size: auto;
+#designer {
+    color: brown;
+    font-size: 100%;
 }
 
-
+/* #skills {
+    background-color: rgb(157, 80, 80);
+} */
 
