@@ -3,6 +3,14 @@ body{
     background-color: black;
 }
 
+.list-group {
+    margin: auto;
+    text-decoration: none;
+    display: flex;
+    list-style: none inside;
+    
+}
+
 #acerca_de {
     background: url(../img/fond12.jpg);
     background-repeat: no-repeat;
